@@ -1,4 +1,4 @@
-<img align="center" src="header.gif">
+<div align="center"><img src="header.gif"></div>
 
 ### Hi there 👋
 
