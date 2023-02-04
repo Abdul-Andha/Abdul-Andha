@@ -1,4 +1,4 @@
-![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c58b219cf61820567d3133a654df6dd10078449e&rid=giphy.gif&ct=g) 
+![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c58b219cf61820567d3133a654df6dd10078449e&rid=giphy.gif&ct=g width=700px) 
 
 ### Hi there 👋
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
