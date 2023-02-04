@@ -1,5 +1,5 @@
 ![MasterHead](header.gif) 
-<img width="900px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c58b219cf61820567d3133a654df6dd10078449e&rid=giphy.gif&ct=g">
+<img align="center" src="header.gif">
 ### Hi there 👋
 <img width="900px" src="header.gif">
 
