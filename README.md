@@ -1,7 +1,7 @@
 <div align="center"><img src="header.gif"></div>
 
 <h1 align="center">Hi 👋, I'm Abdul</h1>
-<h3 align="center">Incoming SWE Intern @ Freenome <br>
+<h3 align="center">
 Fullstack Developer <br>
 CS @ CCNY</h3>
 
