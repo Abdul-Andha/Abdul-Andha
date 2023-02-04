@@ -1,7 +1,7 @@
-![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c58b219cf61820567d3133a654df6dd10078449e&rid=giphy.gif&ct=g) 
+![MasterHead](header.gif) 
 <img width="900px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c58b219cf61820567d3133a654df6dd10078449e&rid=giphy.gif&ct=g">
 ### Hi there 👋
-<img width="900px" src="header.webp">
+<img width="900px" src="header.gif">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdul-Andha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
