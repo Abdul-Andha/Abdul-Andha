@@ -1,9 +1,9 @@
 <div align="center"><img src="header.gif"></div>
 
 <h1>Hi 👋, I'm Abdul</h1>
-<h2>Incoming SWE Intern @ Freenome</h2>
-<h2>Fullstack Developer</h2>
-<h2>CS @ CCNY</h2>
+<h3>Incoming SWE Intern @ Freenome</h3>
+<h3>Fullstack Developer</h3>
+<h3>CS @ CCNY</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
