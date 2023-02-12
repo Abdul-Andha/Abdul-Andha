@@ -7,7 +7,7 @@ CS @ CCNY</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdul-Andha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" background-color="blue" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdul-Andha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" background-color="blue" />
 
 <!--
 **Abdul-Andha/Abdul-Andha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
