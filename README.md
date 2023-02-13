@@ -12,15 +12,15 @@ CS @ CCNY</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h4 align="left">Connect with me!</h4>
+<!-- <h4 align="left">Connect with me!</h4>
 <p align="left">
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" width="20" /> Abdul Andha<br>
 - 📧 aandha8342@gmail.com
-</p>
+</p> -->
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Andha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Andha&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Andha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Andha&layout=compact&theme=radical" />
 </p>
 
 
