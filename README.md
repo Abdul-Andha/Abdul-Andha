@@ -14,6 +14,6 @@ CS @ CCNY</h3>
 
 
 <div align="center">
-    <a href="https://github.com/abdul-andha/github-readme-stats"><img alt="Abdul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdul-andha&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" width="300" height="100%"/></a>
-  <a href="https://github.com/abdul-andha/github-readme-stats"><img alt="Abdul's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-andha&layout=compact&theme=radical" width="300" /></a>
+    <a href="https://github.com/abdul-andha/github-readme-stats"><img alt="Abdul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdul-andha&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" width="400" height="100%"/></a>
+  <a href="https://github.com/abdul-andha/github-readme-stats"><img alt="Abdul's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-andha&layout=compact&theme=radical" width="400" /></a>
   <br/>
