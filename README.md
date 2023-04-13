@@ -8,7 +8,7 @@ CS @ CCNY</h3>
 
 ### About me
 ➤ Based In: **New York City** <br>
-➤ Visit my **<a align="center" href="abdulandha.com" target="_blank">Website</a>**  <br>
+➤ Visit my **<a align="center" href="https://abdulandha.com" target="_blank">Website</a>**  <br>
 ➤ Look at my **<a align="center" href="https://drive.google.com/file/d/1JqCgPuNtUTr2JKiHf0zW3WDBAdzsH8ae/view?usp=sharing" target="_blank">Resume</a>** <br>
 ➤ Check out my **<a align="center" href="https://www.linkedin.com/in/abdul-andha/" target="_blank">LinkedIn</a>** <br>
 ➤ Contact me: **aandha8342@gmail.com**
