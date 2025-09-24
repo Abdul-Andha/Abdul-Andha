@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdul</h1>
 <h3 align="center">
-Fullstack Developer <br>
-swe @ Datadog </h3>
+swe 
 
 
 ### About me
