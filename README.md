@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdul</h1>
 <h3 align="center">
 Fullstack Developer <br>
-CS @ CCNY</h3>
+swe @ Datadog </h3>
 
 
 ### About me
